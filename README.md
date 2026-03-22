@@ -71,3 +71,8 @@ Team Name: VibeCoders
 - Improve AI model  
 - Collect more user feedback  
 - Develop final product
+
+
+
+## Live Demo
+https://adethix.vercel.app/
