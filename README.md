@@ -49,12 +49,12 @@ Week 1:
 ## Team
 Team Name: VibeCoders  
 
-- Kavan – Team Lead  
+- Kavana – Team Lead  
 - Ramya – Customer Contact Lead  
 - Rajkumar – Development Lead  
 - Rohan – Developer  
 - Teja – Developer  
-- Sharmi – Test Lead  
+- Sharmily – Test Lead  
 - Nitin – GitHub / DevOps  
 
 ---
