@@ -12,7 +12,8 @@ Project: AdEthix AI
 - Defined problem statement  
 - Started customer discovery and validation  
 - Created GitHub repository and folder structure  
-- Began documentation work  
+- Began documentation work
+- Developed initial prototype and deployed website
 
 ---
 
