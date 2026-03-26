@@ -9,5 +9,5 @@ Team Lead: Kavana
 Customer Contact Lead: Ramya  
 Development Lead: Rajkumar  
 Developers: Rohan, Teja  
-Test Lead: Sharmily 
+Test Lead: Sharmily   
 GitHub / DevOps / Documentation: Nitin
