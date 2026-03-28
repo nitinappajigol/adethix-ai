@@ -26,31 +26,37 @@ Project: AdEthix AI
 
 ---
 
-## Individual Contributions
+# Individual Contributions
 
-Kavana (Team Lead)  
-- Helped in finalizing project idea and problem statement  
-
-Ramya (Customer Contact Lead)  
+## Ramya V K (Team Lead / Customer Interface)
+- Led team coordination and planning  
 - Initiated customer research and interactions  
 
-Rajkumar (Development Lead)  
-- Identified system requirements and features  
+## Kavana S (Customer Interface)
+- Contributed to finalizing project idea and problem statement  
+- Supported customer-related discussions  
 
-Rohan (Developer)  
-- Assisted in understanding technical implementation  
+## Rajkumar H (Development Lead)
+- Identified system requirements and key features  
+- Guided technical approach for the project  
 
-Teja (Developer)  
+## Sai Tarun Tej (Developer)
 - Contributed to idea discussion and planning  
+- Supported development understanding  
 
-Sharmily (Test Lead)  
-- Discussed initial testing approach  
+## Rohan Chandrashekhar Buyyar (Developer / GitHub Support)
+- Assisted in understanding technical implementation  
+- Supported GitHub and documentation tasks  
 
-Nitin (GitHub / DevOps)  
+## Sharmily H (Test Lead)
+- Defined initial testing approach  
+- Identified possible testing scenarios  
+
+## Nitin Appajigol (GitHub / DevOps / Documentation)
 - Created GitHub repository  
 - Organized folder structure  
-- Uploaded documentation and managed files  
-
+- Uploaded and managed all project documents  
+- Maintained weekly reports and survey evidence
 ---
 
 ## Project Status
