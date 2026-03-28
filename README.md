@@ -49,7 +49,7 @@ Week 1:
 # Team Members & Roles
 
 - Ramya V K – Team Lead & Customer Interface  
-- Rajkumar H – Development Lead  
+- Rajkumar Math– Development Lead  
 - Kavana S – Customer Interface  
 - Sharmily H – Test Lead  
 - Sai Tarun Tej – Developer  
