@@ -1,8 +1,8 @@
-# AdEthix 
+# AdEthix Ai
 AI System for Detecting Misleading or Unethical Marketing Content
 
 ## Overview
-AdEthix  is an AI-based system designed to detect bias, stereotypes, and unethical messaging in marketing content before it is published.
+AdEthix  Ai is an AI-based system designed to detect bias, stereotypes, and unethical messaging in marketing content before it is published.
 
 ---
 
