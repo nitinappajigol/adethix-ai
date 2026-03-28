@@ -1,13 +1,12 @@
-# Team Roles
+# Team Members & Roles
 
 Team Name: VibeCoders  
 Project: AdEthix AI  
 
-## Roles
-
-Team Lead: Kavana
-Customer Contact Lead: Ramya  
-Development Lead: Rajkumar  
-Developers: Rohan, Teja  
-Test Lead: Sharmily   
-GitHub / DevOps / Documentation: Nitin
+- Ramya V K – Team Lead & Customer Interface  
+- Rajkumar H – Development Lead  
+- Kavana S – Customer Interface  
+- Sharmily H – Test Lead  
+- Sai Tarun Tej – Developer  
+- Nitin Appajigol – GitHub / DevOps / Documentation  
+- Rohan Chandrashekhar Buyyar – GitHub / Documentation Support
