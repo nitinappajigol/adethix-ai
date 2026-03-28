@@ -36,7 +36,7 @@ Project: AdEthix AI
 - Contributed to finalizing project idea and problem statement  
 - Supported customer-related discussions  
 
-## Rajkumar H (Development Lead)
+## Rajkumar Math(Development Lead)
 - Identified system requirements and key features  
 - Guided technical approach for the project  
 
