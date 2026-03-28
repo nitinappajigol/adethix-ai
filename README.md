@@ -46,16 +46,15 @@ Week 1:
 
 ---
 
-## Team
-Team Name: VibeCoders  
+# Team Members & Roles
 
-- Kavana – Team Lead  
-- Ramya – Customer Contact Lead  
-- Rajkumar – Development Lead  
-- Rohan – Developer  
-- Teja – Developer  
-- Sharmily – Test Lead  
-- Nitin – GitHub / DevOps  
+- Ramya V K – Team Lead & Customer Interface  
+- Rajkumar H – Development Lead  
+- Kavana S – Customer Interface  
+- Sharmily H – Test Lead  
+- Sai Tarun Tej – Developer  
+- Rohan Chandrashekhar Buyyar – Developer / GitHub Support  
+- Nitin Appajigol – GitHub / DevOps / Documentation  
 
 ---
 
