@@ -1,77 +1,16 @@
-# AdEthix AI
-AI System for Detecting Misleading or Unethical Marketing Content
+# React + Vite
 
-## Overview
-AdEthix  AI is an AI-based system designed to detect bias, stereotypes, and unethical messaging in marketing content before it is published.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## Problem
-With the increasing use of AI tools in marketing, there is a risk of generating biased or culturally insensitive content. Current review processes are manual and may miss subtle issues.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
----
+## React Compiler
 
-## Solution
-AdEthix analyzes marketing content and identifies potential ethical risks such as:
-- Bias and stereotypes  
-- Cultural insensitivity  
-- Misleading messaging  
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-It provides warnings and suggestions to improve content.
+## Expanding the ESLint configuration
 
----
-
-## Target Users
-- Marketing teams  
-- Advertising agencies  
-- Social media managers  
-- Content creators  
-
----
-
-## Features (Planned)
-- Input marketing text (ads, captions)  
-- AI-based content analysis  
-- Risk detection (Low/Medium/High)  
-- Suggestions for improvement  
-
----
-
-## Project Status
-Week 1:
-- Problem statement defined  
-- Customer discovery completed  
-- Survey and validation done  
-- GitHub repository structured  
-
----
-
-# Team Members & Roles
-
-- Ramya V K – Team Lead & Customer Interface  
-- Rajkumar Math– Development Lead  
-- Kavana S – Customer Interface  
-- Sharmily H – Test Lead  
-- Sai Tarun Tej – Developer  
-- Rohan Chandrashekhar Buyyar – Developer / GitHub Support  
-- Nitin Appajigol – GitHub / DevOps / Documentation  
-
----
-
-## Repository Structure
-- Documentation/ → Project documents  
-- WeeklyReports/ → Weekly progress  
-- UserSurveys/ → Customer interaction evidence  
-
----
-
-## Future Work
-- Build prototype  
-- Improve AI model  
-- Collect more user feedback  
-- Develop final product
-
-
-
-## Live Demo
-https://adethix.vercel.app/
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
